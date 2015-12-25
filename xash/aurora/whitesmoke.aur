@@ -1,0 +1,30 @@
+"particles" "100"
+"maintype" "smokesource"
+"lightmodel" "2"
+"attachment" "1"
+{
+  "name" "smokesource"
+  "spraytype" "flames"
+  "sprayforce" "300"
+  "sprayrate" "20"
+  "spraypitch" "0"
+  "sprayyaw" "0"
+}
+
+{
+  "name" "flames"
+  "lifetime" "1.2"
+  "gravity" "0"
+  "sprite" "sprites/blacksmoke.spr"
+  "startalpha" "0.75"
+  "endalpha" "0"
+  "startsize" "5"
+  "endsize" "90"
+  "startframe" "1"
+  "endframe" "15"
+  "startangle" "0..360"
+  "angledelta" "30..-30"
+  "rendermode" "solid"
+  "drag" "0"
+  "drawcondition" "empty"
+}
