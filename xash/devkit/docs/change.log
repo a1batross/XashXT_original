@@ -1,3 +1,8 @@
+version 0.65 rev. 3
+
+Render: get support for tiling on studiomodels
+Tools: replace fatal error on warning if texture not found (bsp, csg)
+
 version 0.65 rev. 2
 
 Client: apply default extension to the all aurora files
