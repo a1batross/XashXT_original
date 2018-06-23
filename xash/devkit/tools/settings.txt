@@ -1,4 +1,0 @@
-#ifdef <hlrad>
-  #define -waddir "D:\Xash3D\valve"
-  #define -waddir "D:\Xash3D\xash"
-#endif

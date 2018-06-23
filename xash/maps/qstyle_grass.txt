@@ -1,3 +1,0 @@
-city_grass01	gfx/grass/grass1.tga	8.0	0.3	1.8	1
-city_grass01	gfx/grass/grass2.tga	8.5	0.6	1.5	2
-city_grass01	gfx/grass/grass3.tga	8.5	0.6	1.7	3

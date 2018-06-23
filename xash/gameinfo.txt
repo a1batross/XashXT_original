@@ -4,11 +4,11 @@
 basedir		"valve"
 gamedir		"xash"
 title		"Xash"
-startmap		"demo_1"
-trainmap		"demo_1"
-version		0.65
-size		41504322
-url_info		"http://www.hlfx.ru/forum"
+startmap		"grass_test2"
+trainmap		"freeman"
+version		0.8
+size		116339527
+url_info		"https://cs-mapping.com.ua/forum/forumdisplay.php?f=189"
 type		"Toolkit"
 dllpath		"bin"
 gamedll		"bin/server.dll"
@@ -19,6 +19,7 @@ hull0		( 0 0 0 ) ( 0 0 0 )
 hull1		( -16 -16 -36 ) ( 16 16 36 )
 hull2		( -32 -32 -32 ) ( 32 32 32 )
 hull3		( -16 -16 -18 ) ( 16 16 18 )
+ambient1		"ambience/wind2.wav"
 max_edicts	2048
 max_tempents	1024
 max_beams		128
